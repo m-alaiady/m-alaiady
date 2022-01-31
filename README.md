@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Web-based application for choosing the best-matching university to study**
 
-- 📝 I regularly write articles on [Web Technologies](Web Technologies)
-
 - 📫 How to reach me **alaiady@outlook.sa**
 
 <h3 align="left">Connect with me:</h3>
