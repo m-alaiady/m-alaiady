@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-alaiady" alt="m-alaiady" /></a> </p>
 
-- 🔭 I’m currently working on **Web-based application for choosing the best-matching university to study in Saudi Arabia** 
 
 - 📫 How to reach me **alaiady@outlook.sa**
 
